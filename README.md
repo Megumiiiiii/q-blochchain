@@ -2,5 +2,5 @@
 
 ## Setup Awal
 ```
-wget -O qb.sh https://raw.githubusercontent.com/Megumiiiiii/q-blochchain/main/qb.sh && chmod +X qb.sh && ./qb.sh
+wget -O qb.sh https://raw.githubusercontent.com/Megumiiiiii/q-blochchain/main/qb.sh && chmod +x qb.sh && ./qb.sh
 ```
